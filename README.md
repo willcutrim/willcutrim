@@ -2,7 +2,7 @@
 ### Hi! I'm Willyam Cutrim 🤙
 
 
-[![Willyam github stats](https://github-readme-stats.vercel.app/api?username=willcutrim&theme=dracula)](https://github.com/willcutrim/github-readme-stats)
+
 
 ## Tecnologias que utilizo
 
