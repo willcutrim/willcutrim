@@ -1,8 +1,8 @@
 
 ### E aí, belezinha? 🤙
-
-[![Willyam github stats](https://github-readme-stats.vercel.app/api?username=willcutrim&theme=dracula)](https://github.com/willcutrim/github-readme-stats)
-
+<div align="center">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willcutrim&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 ## Tecnologias que utilizo
 
