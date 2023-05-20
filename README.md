@@ -1,7 +1,7 @@
 
 ### E aí, belezinha? 🤙
 
-## Tecnologias que utilizo
+Eu sou um desenvolvedor full stack com 3 anos de experiência, formado em Tecnólogo em Sistemas para Internet, e tenho 27 anos. Com conhecimentos em diversas linguagens e frameworks, sou capaz de criar soluções completas e eficientes, desde a interface do usuário até a integração com bancos de dados e serviços web. Minha abordagem inclui código limpo e bem estruturado, além de boas práticas de desenvolvimento, como testes automatizados e integração contínua. Tenho habilidades de comunicação e trabalho em equipe, o que me permite colaborar efetivamente em projetos ágeis.
 
 ### Back-End 
 <div style="display: inline_block">
