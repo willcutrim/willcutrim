@@ -1,7 +1,7 @@
 
 ### E aí, belezinha? 🤙
 
-Sou um desenvolvedor Full-Stack com 4 anos de experiência, apaixonado por criar soluções tecnológicas inovadoras e eficientes. Possuo um forte domínio em diversas linguagens de programação e frameworks, além de experiência com bancos de dados, ferramentas de cache e containers e adepto da metodologia TDD, que garante código mais limpo, testável e robusto.
+Sou um desenvolvedor Full-Stack, apaixonado por criar soluções tecnológicas inovadoras e eficientes. Possuo um forte domínio em diversas linguagens de programação e frameworks, além de experiência com bancos de dados, ferramentas de cache e containers e adepto da metodologia TDD, que garante código mais limpo, testável e robusto.
 
 ### Habilidades:
 
